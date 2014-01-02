@@ -1,0 +1,6 @@
+SALTHOST=crotale.afpy.org
+REMOTE_USER=`whoami`
+NEED_SUDO=true
+SALT_DIR=/srv/salt
+PILLAR_DIR=/srv/pillar
+USE_PILLAR_DIR=false
